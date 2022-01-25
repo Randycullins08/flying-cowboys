@@ -1,0 +1,26 @@
+.third-section {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background: url(/images/second-img.webp);
+  background-size: 100vw;
+  height: 612px;
+}
+
+.third-section .section-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.third-section .font-awesome-hat {
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+}
+
+.third-section .paragraph-section p {
+  font-size: 21px;
+  line-height: 1.6em;
+  text-align: center;
+}

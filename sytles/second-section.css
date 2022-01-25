@@ -1,0 +1,15 @@
+.second-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url(/images/Small-Plane-Navigation.jpeg);
+  background-size: 100vw;
+  height: 856px;
+}
+
+.second-section .second-section-content {
+  display: flex;
+  justify-content: center;
+  height: 290px;
+  width: 258px;
+}
